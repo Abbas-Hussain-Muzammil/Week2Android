@@ -1,4 +1,8 @@
 # Week2Android
+
+What I learned!
+ - How to switch between images using Glide
+ - use of .random() function to randomly pick images
 Retrofit Practice 
 
 What is Retrofit?
